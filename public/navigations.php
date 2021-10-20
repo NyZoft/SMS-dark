@@ -5,7 +5,7 @@
         Tip 2: you can also add an image using data-image tag
     -->
       <div class="logo"><a href="http://www.creative-tim.com" class="simple-text logo-normal">
-          Creative Tim
+          NBSCSMS
         </a></div>
       <div class="sidebar-wrapper">
         <ul class="nav">
@@ -17,32 +17,32 @@
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./typography.html">
-              <i class="material-icons">library_books</i>
-              <p>Entities</p>
+              <i class="material-icons">school</i>
+              <p>Academic Entities</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./user.html">
-              <i class="material-icons">person</i>
-              <p>Student Profile</p>
+              <i class="material-icons">fact_check</i>
+              <p>Assessment</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./tables.html">
-              <i class="material-icons">content_paste</i>
-              <p>Table List</p>
+              <i class="material-icons">account_balance</i>
+              <p>Accounting Entities</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./typography.html">
-              <i class="material-icons">library_books</i>
-              <p>Typography</p>
+              <i class="material-icons">print</i>
+              <p>Reports</p>
             </a>
           </li>
           <li class="nav-item ">
             <a class="nav-link" href="./icons.html">
-              <i class="material-icons">bubble_chart</i>
-              <p>Icons</p>
+              <i class="material-icons">settings</i>
+              <p>System Settings</p>
             </a>
           </li>
           <li class="nav-item ">
